@@ -1,0 +1,2 @@
+# class_implements_interface
+class_implements_interface
